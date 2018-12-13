@@ -1,2 +1,2 @@
-# python_neural_network
+# Neural Network
 Trying to make a neural network from scratch
